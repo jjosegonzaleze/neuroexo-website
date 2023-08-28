@@ -109,7 +109,7 @@ title: People
 <img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
 <h4>Juan Jose Gonzalez Espana, MSEE</h4>
 
-<h4>PhD Student, Electrical and Computer Engineering</h4>
+<h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
 <h4>Graduate Research Assistant</h4>
 <h4>jgonz220@central.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
